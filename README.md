@@ -15,6 +15,6 @@ C'est tout simple, à l'intérieur du code, vous trouverez une ligne dans laquel
 
 # Faire fontionner
 Pour cela vous avez juste à :
-Téléchargez le fichier classtotext.py
+Téléchargez le fichier classtotext.py 
 Renseigner une URL et une class.
 Lancez le fichier sur votre machine à l'aide de Python.
